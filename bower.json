@@ -1,0 +1,8 @@
+{
+	"name": "app",
+	"private": true,
+	"dependencies": {
+		"jquery": "~1.11.1",
+		"bootstrap": "~3.2.0"
+	}
+}
